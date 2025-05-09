@@ -51,11 +51,10 @@ Este projeto adota uma **arquitetura em camadas**, com separação clara de resp
   - Unidade Federativa (ex: "SÃO PAULO", "RIO DE JANEIRO")
   - Modalidade (ex: "EAD", "Presencial")
 - Um botão de pesquisa realiza a busca com base nos filtros.
-- Lista de **consultas recentes** com realce ao clicar.
+- Lista de **consultas recentes**.
 
 #### `NewWindow` (Janela Secundária)
 
 - Exibe os **dados detalhados** da consulta selecionada.
-- Mostra um **gráfico de fundo** e uma lista com os resultados formatados como `"nome - total"`.
 
 ---
